@@ -20,5 +20,3 @@ The calculator runs inside a loop, allowing the user to continue making calculat
 - Type casting  
 - Error handling basics  
 - User input  
-
-## 📂 Project Structure  
